@@ -1,4 +1,4 @@
-<div align="center" style="color: cornflowerblue">
+<div align="center">
 
 ## I'm a beginner frontend developer
 
