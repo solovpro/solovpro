@@ -1,5 +1,7 @@
 ![Header](https://github.com/solovpro/solovpro/blob/main/assets/solovpro.jpg)
 
+##I'm a beginner frontend developer
+
 #About me
   
 ###- 🔭 I’m currently working on search for part-time work and  
