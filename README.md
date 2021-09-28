@@ -2,9 +2,9 @@
 
 #About me
 
-###- 🔭 I’m currently working on search for part-time work and 
-###- 🌱 I’m currently learning Jest react, mobX and slightly GraphQL
-###- ⚡ Fun fact: I have married and me 18 years :D
+###- 🔭 I’m currently working on search for part-time work and  
+###- 🌱 I’m currently learning Jest react, mobX and slightly GraphQL  
+###- ⚡ Fun fact: I have married and me 18 years :D  
   
 ##My main stack technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-A9A9A9?style=for-the-badge&logo=HTML5)
