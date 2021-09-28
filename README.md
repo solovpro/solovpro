@@ -13,6 +13,13 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJS-4682B4?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
 
-Follow Me
+##Follow Me
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/__s_o_l_o_v__/)
+[![vk](https://img.shields.io/badge/-vk-000?style=for-the-badge&logo=vk)](https://vk.com/id427018592)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/Dimasek3000)
+
+
+
+
 
 
