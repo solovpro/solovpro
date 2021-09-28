@@ -1,5 +1,4 @@
-<div>
-<div style="display: flex;justify-content:center;align-items: center;flex-flow: column">
+<div align="center">
 
 [![Header](https://github.com/solovpro/solovpro/blob/main/assets/solov.gif)](https://t.me/Dimasek3000)
     
@@ -31,7 +30,7 @@
 https://github.com/anuraghazra/github-readme-stats)
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solovpro&layout=demo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 </div>
 
 
