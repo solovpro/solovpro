@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Header](https://github.com/solovpro/solovpro/blob/main/assets/solov.gif)](https://t.me/Dimasek3000)
-    
 ## I'm a beginner frontend developer
+
+[![Header](https://github.com/solovpro/solovpro/blob/main/assets/solov.gif)](https://t.me/Dimasek3000)
     
 # About me
     
