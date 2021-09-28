@@ -1,4 +1,4 @@
-[![Header](https://github.com/solovpro/solovpro/blob/main/assets/solovpro.gif)](https://t.me/Dimasek3000)
+[![Header](https://github.com/solovpro/solovpro/blob/main/assets/solov.gif)](https://t.me/Dimasek3000)
 
 ## I'm a beginner frontend developer
 
