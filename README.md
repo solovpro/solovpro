@@ -7,7 +7,7 @@
 # About me
     
 ### - 🔭 I’m currently working on search for part-time work
-### - 🌱 I’m currently learning Jest react, mobX and slightly GraphQL
+### - 🌱 I’m currently learning next.js
 ### - ⚡ Fun fact: I have married and me 18 years :D
     
 # My main stack technologies
