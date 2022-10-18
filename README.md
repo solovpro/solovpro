@@ -16,10 +16,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-8B0000?style=for-the-badge&logo=javascript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-4682B4?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
-![MobX](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
-![NextJS](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
-![NodeJS](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
-![Webpack](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
+![MobX](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=MobX)
+![NextJS](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=NextJS)
+![NodeJS](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=NodeJS)
+![Webpack](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Webpack)
     
 # Follow Me
     
