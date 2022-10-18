@@ -7,6 +7,7 @@
 # About me
     
 ### - 🔭 I'm currently looking for a job
+### - 👨🏻‍💻 I have over a year of commercial development in the fintech industry
 ### - ⚡ Fun fact: I have married and me 19 years :D
     
 # My main stack technologies
