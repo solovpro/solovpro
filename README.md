@@ -6,9 +6,8 @@
     
 # About me
     
-### - 🔭 I’m currently working on search for part-time work
-### - 🌱 I’m currently learning next.js
-### - ⚡ Fun fact: I have married and me 18 years :D
+### - 🔭 I'm currently looking for a job
+### - ⚡ Fun fact: I have married and me 19 years :D
     
 # My main stack technologies
     
@@ -17,6 +16,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-8B0000?style=for-the-badge&logo=javascript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-4682B4?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
+![MobX](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
+![NextJS](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
+![NodeJS](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
+![Webpack](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
     
 # Follow Me
     
