@@ -1,6 +1,6 @@
 <div align="center">
 
-# I'm a beginner frontend developer
+# I'm a Frontend developer
 
 [![Header](https://github.com/solovpro/solovpro/blob/main/assets/solov.gif)](https://t.me/Dimasek3000)
     
