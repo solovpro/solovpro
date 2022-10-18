@@ -18,7 +18,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
 ![MobX](https://img.shields.io/badge/-MobX-D2691E?style=for-the-badge&logo=MobX)
 ![Next.js](https://img.shields.io/badge/-NextJS-191970?style=for-the-badge&logo=Next.js)
-![Node.js](https://img.shields.io/badge/-NodeJS-2E8B57?style=for-the-badge&logo=Node.js)
+![Node.js](https://img.shields.io/badge/-NodeJS-2F4F4F?style=for-the-badge&logo=Node.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-AFEEEE?style=for-the-badge&logo=Webpack)
     
 # Follow Me
