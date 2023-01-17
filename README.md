@@ -13,7 +13,7 @@
     
 # My stack technologies
     
-![HTML5](https://img.shields.io/badge/-HTML5-A9A9A9?style=for-the-badge&logo=HTML5)
+![HTML5](https://img.shields.io/badge/-HTML5-F1E05A?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3/SCSS-4B0082?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-8B0000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-191970?style=for-the-badge&logo=typescript)
