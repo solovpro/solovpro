@@ -31,10 +31,7 @@
     
 # My stats
     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solovpro&show_icons==true&theme=radical)](
-https://github.com/anuraghazra/github-readme-stats)
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solovpro&layout=demo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=solovpro&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </div>
 
